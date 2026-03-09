@@ -1,0 +1,130 @@
+.board-title{
+margin-bottom:20px;
+}
+
+/* LIST ROW */
+
+.lists-row{
+
+display:flex;
+gap:20px;
+flex-wrap:wrap;
+
+background:#dbeafe;
+
+padding:20px;
+border-radius:12px;
+
+}
+
+/* LIST CARD */
+
+.list{
+
+background:white;
+
+padding:15px;
+width:250px;
+
+border-radius:12px;
+
+box-shadow:0 4px 12px rgba(0,0,0,0.1);
+
+}
+
+/* TASK CARD */
+
+.card{
+
+background:#f1f5f9;
+
+padding:8px;
+
+border-radius:6px;
+
+margin-bottom:8px;
+
+}
+
+/* INPUT */
+
+.list input{
+
+width:100%;
+padding:6px;
+
+margin-top:10px;
+
+border-radius:6px;
+
+border:1px solid #ccc;
+
+}
+
+/* ADD CARD BUTTON */
+
+.list button{
+
+margin-top:8px;
+
+width:100%;
+
+padding:6px;
+
+background:#10b981;
+
+border:none;
+
+color:white;
+
+border-radius:6px;
+
+cursor:pointer;
+
+}
+
+/* ADD LIST ROW */
+
+.add-list-row{
+
+margin-top:25px;
+
+}
+
+/* ADD LIST CARD */
+
+.add-list-card{
+
+background:white;
+
+padding:15px;
+
+width:250px;
+
+border-radius:12px;
+
+box-shadow:0 4px 12px rgba(0,0,0,0.1);
+
+display:flex;
+flex-direction:column;
+gap:10px;
+
+}
+
+/* ADD LIST BUTTON */
+
+.add-list-card button{
+
+padding:8px;
+
+background:#4f46e5;
+
+border:none;
+
+color:white;
+
+border-radius:6px;
+
+cursor:pointer;
+
+}

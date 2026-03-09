@@ -1,0 +1,36 @@
+.profile-settings{
+
+background:white;
+padding:30px;
+border-radius:12px;
+width:350px;
+text-align:center;
+box-shadow:0 4px 10px rgba(0,0,0,0.1);
+
+}
+
+.avatar.big{
+
+width:80px;
+height:80px;
+background:#4f46e5;
+color:white;
+border-radius:50%;
+display:flex;
+align-items:center;
+justify-content:center;
+font-size:30px;
+margin:0 auto 15px auto;
+
+}
+
+.profile-settings button{
+
+padding:10px 15px;
+border:none;
+background:#4f46e5;
+color:white;
+border-radius:6px;
+cursor:pointer;
+
+}
