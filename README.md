@@ -154,19 +154,6 @@ taskflow
 
 ---
 
-## Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```
-screenshots/dashboard.png
-screenshots/tasks.png
-```
-
----
-
 ## Roadmap
 
 Future improvements planned:
