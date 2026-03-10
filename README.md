@@ -203,5 +203,5 @@ This project is licensed under the MIT License.
 
 Author: Viharika Vasireddy
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/ViharikVasireddy
 ```
